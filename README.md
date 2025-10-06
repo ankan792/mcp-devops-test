@@ -1,2 +1,1 @@
-# mcp-devops-test
-Temporary repository for testing purposes.
+This is a test for Digital DevOps Worker.
